@@ -48,3 +48,5 @@
 0.0.0.0 .thaixadult.com
 0.0.0.0 www.2youhdd.com
 0.0.0.0 medium.com
+127.0.0.1 www.movie2free.com
+127.0.0.1 movie2free.com
