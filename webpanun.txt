@@ -216,3 +216,6 @@
 0.0.0.0 138betthailand.com
 0.0.0.0 ball24live.com
 0.0.0.0 casino21online.com
+0.0.0.0 http://www.baidu.com
+0.0.0.0 baidu.com
+0.0.0.0 https://www.baidu.com
