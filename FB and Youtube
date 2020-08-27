@@ -1,7 +1,7 @@
-0.0.0.0 www.facebook.com
+#0.0.0.0 www.facebook.com
 0.0.0.0 www.youtube.com
 0.0.0.0 https:\\www.youtube.com
-0.0.0.0 https:\\www.facebook.com
+#0.0.0.0 https:\\www.facebook.com
 0.0.0.0 https:\\www.baidu.com
 0.0.0.0 http:\\www.baidu.com
 0.0.0.0 www.baidu.com
